@@ -1,0 +1,577 @@
+@media only screen and (max-width: 768px) {
+
+    .navbar {
+        width: 90%;
+    }
+
+    #home {
+        height: 60vh;
+    }
+
+    #home .bg-video video {
+        height: 132vh;
+    }
+
+    .bg-other-content {
+        top: 236px;
+    }
+
+    .pa {
+        display: none;
+    }
+
+    .h-primary h1 {
+        font-size: 42px;
+    }
+
+    .h-divider img {
+        width: 50%;
+    }
+
+    #section-2 {
+        width: 95%;
+        margin: auto;
+    }
+
+    .sec-2-item-1 {
+        flex-wrap: wrap;
+    }
+
+    .item-1 {
+        padding: 50px 0px 0px 23px;
+    }
+
+    .sec-2-item-1 {
+        width: 100%;
+    }
+
+    .sec-2-services {
+        width: 98%;
+        padding-bottom: 40px;
+    }
+
+    .item-style {
+        width: 100%;
+        align-items: start;
+        margin: 13px 13px 0px 30px;
+    }
+
+    .sec-2-services img {
+        width: 15%;
+    }
+
+    .item-1 {
+        width: 100%;
+        margin-right: 0;
+    }
+
+    .brand-img li:nth-child(1) {
+        display: none;
+    }
+
+    .brand-img li:nth-child(2) {
+        display: none;
+    }
+
+    .brand-img li:nth-child(3) {
+        display: none;
+    }
+
+    .sec-2-chatus-btn {
+        justify-content: center;
+    }
+
+    .brand-img img {
+        width: 70%;
+    }
+
+    .portfolio-navbar ul {
+        flex-direction: column;
+        text-align: center;
+        padding-left: 0;
+    }
+
+    .portfolio-navbar li {
+        margin: 5px 0;
+    }
+
+    .sec-5 {
+        width: 90%;
+    }
+
+    .sec-3 {
+        width: 90%;
+    }
+
+    .portfolio-2 {
+        display: none;
+    }
+
+    .sec-3-carding {
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+    .portfolio-card-img {
+        margin: 10px 8px;
+    }
+
+    .sec-3-portfolio {
+        padding: 25px 0px 50px 0px;
+    }
+
+    .sec-4 {
+        width: 85%;
+    }
+
+    .evalution-text-input input {
+        padding: 15px 51px 15px 30px;
+    }
+
+    .branding-service {
+        flex-wrap: wrap;
+    }
+
+    .cards {
+        flex: 0 0 calc(89% / 2);
+    }
+
+    .sec-6 {
+        width: 90%;
+    }
+
+    .logo-services {
+        width: 100%;
+    }
+
+    .sec-11-image {
+        display: none;
+    }
+
+    .relavant-form {
+        width: 100%;
+        padding: 40px 40px;
+    }
+
+    .sec-8 {
+        width: 90%;
+    }
+
+    .sec-9-customer {
+        display: none;
+    }
+
+    .sec-9-review-customer {
+        width: 100%;
+        text-align: start;
+
+    }
+
+    .footer-column-set {
+        flex-wrap: wrap;
+        width: 90%;
+    }
+
+    .width-fix {
+        width: 100%;
+    }
+
+    .width-fix a {
+        font-size: 12px;
+    }
+
+    .business-idea {
+        text-align: center;
+        padding-top: 0px;
+    }
+
+    .business-idea img {
+        width: 20%;
+        padding: 30px 0;
+    }
+
+    .footer-column-set p {
+        font-size: 12px;
+    }
+
+    .sec-11-btn a {
+        padding: 7px 33px;
+        font-size: 11px;
+    }
+
+    .sec-9-review-customer h2 {
+        font-size: 28px;
+    }
+
+    .sec-9-review-customer h5 {
+        font-size: 14px;
+    }
+
+    .sec-10-heading h2 {
+        font-size: 28px;
+    }
+
+    .sec-10-heading h5 {
+        font-size: 14px;
+    }
+
+    .sec-8-heading h2 {
+        font-size: 28px;
+    }
+
+    .sec-8-heading h5 {
+        font-size: 14px;
+    }
+
+    .item-1 h2 {
+        font-size: 28px;
+    }
+
+    .item-1 h6 {
+        font-size: 14px;
+    }
+
+    .item-1 p {
+        font-size: 12px;
+    }
+
+    .sec-6-heading h3 {
+        font-size: 28px;
+    }
+
+    .sec-6-heading h5 {
+        font-size: 14px;
+    }
+
+    .heading-2 h1 {
+        font-size: 28px;
+    }
+
+    .heading-1 p {
+        font-size: 14px;
+    }
+
+    .heading-3 p {
+        font-size: 12px;
+    }
+
+    .sec-10 {
+        width: 90%;
+    }
+
+    .sec-9 {
+        width: 90%;
+    }
+
+    .sec-6-brand-heading h5 {
+        font-size: 14px;
+        margin: 5px 245px;
+    }
+
+    .img-promotion img.img-badge {
+        right: -24px;
+        top: -82px;
+    }
+
+    .evalution h1 {
+        font-size: 40px !important;
+    }
+
+    .portfolio-card-img img {
+        bottom: -657px;
+    }
+
+
+}
+
+@media only screen and (max-width: 600px) {
+    #home {
+        height: 45vh !important;
+    }
+
+    #home .bg-video video {
+        height: 100vh !important;
+    }
+
+    .bg-other-content {
+        top: 106px !important;
+        text-align: center;
+    }
+
+    .h-primary h1 {
+        font-size: 39px !important;
+    }
+
+    .navbar .logo img {
+        height: 70px;
+    }
+
+    .brand-img ul {
+        width: 100.2%;
+        padding-left: 10px;
+    }
+
+    #section-2 {
+        width: 100%;
+    }
+
+    .sec-4 {
+        width: 95%;
+    }
+
+    .evalution {
+        flex-wrap: wrap;
+    }
+
+    .evalution-text-input {
+        width: 100%;
+    }
+
+    .evalution-heading {
+        width: 100%;
+    }
+
+    .cards {
+        flex: 0 0 calc(90% / 1);
+    }
+
+    .sec-6-brand-heading h5 {
+        font-size: 11px;
+        margin: 8px 111px;
+    }
+
+    .share-your {
+        flex-wrap: wrap;
+    }
+
+    .sec-8-unique-idea {
+        width: 100%;
+    }
+
+    .sec-8-heading {
+        width: 100%;
+    }
+
+    .our-services {
+        width: 92%;
+    }
+
+    .sec-7-heading br {
+        display: none;
+    }
+
+    .sec-10-brand-img ul {
+        padding-left: 15px !important;
+
+    }
+
+    /* .portfolio-card-img {
+        width: 100%;
+    } */
+
+    .img-promotion img.img-badge {
+        width: 25%;
+        right: -17px;
+        top: -66px;
+    }
+
+    .sec-5-card-btn {
+        top: -11px;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .sec-5-card-btn button {
+        margin: 0 10px;
+    }
+
+    .our-services h3 {
+        font-size: 30px !important;
+    }
+
+    .sec-6-brand-heading p {
+        padding: 10px;
+    }
+
+    .new-price h1 {
+        font-size: 48px !important;
+    }
+
+    .old-price p {
+        font-size: 20px !important;
+    }
+
+    .portfolio-card-img:nth-child(3) {
+        display: none;
+    }
+
+    .portfolio-card-img img {
+        bottom: -657px;
+    }
+
+    section h1 {
+        font-size: 25px !important;
+    }
+
+    section h2 {
+        font-size: 24px !important;
+    }
+
+    section h3 {
+        font-size: 30px;
+    }
+
+    section h4 {
+        font-size: 12px !important;
+    }
+
+    section h5 {}
+
+    section p {
+        font-size: 12px !important;
+    }
+
+    .footer-bottom {
+        flex-wrap: wrap;
+    }
+
+    #chat-now {
+        width: 45%;
+        padding: 3px 1px;
+    }
+
+    .sec-2-project {
+        width: min-content;
+    }
+
+    .item-6 {
+        margin: 0 10px;
+    }
+
+    .evalution-text-input input {
+        padding: 15px 18px 15px 30px;
+    }
+
+    .evalution-text-input {
+        padding: 0px 28px;
+    }
+
+    .card-heading {
+        padding: 17px 75px 17px 75px;
+    }
+    .branding-service {
+    padding: 40px 2px;
+}
+}
+
+@media only screen and (max-width: 992px) {
+.navbar {
+    width: 95%;
+    justify-content: center !important;
+    }
+    #navbar li a {
+         margin: 13px;
+        font-size: 13px;
+    }
+    #navbar ul {
+    padding-left: 0 !important;
+}
+}
+
+@media only screen and (max-width: 1200px) {}
+
+@media only screen and (min-width: 1201px) {}
+
+/* @media only screen and (min-width: 1026px) {} */
+
+@media only screen and (min-width: 1441px) {
+    .h-primary h1 {
+        font-size: 64px;
+    }
+
+    .bg-other-content {
+        top: 480px;
+    }
+
+    .sec-2-item-1 {
+        width: 52%;
+    }
+
+    .sec-3-carding {
+        width: fit-content;
+
+    }
+
+    .sec-4 {
+        width: fit-content;
+    }
+
+    .sec-5 {
+        width: 50%;
+    }
+
+    .branding-service {
+        width: 93%;
+        margin: auto;
+    }
+
+    .sec-6 {
+        width: fit-content;
+    }
+
+    .sec-8 {
+        width: 50%;
+    }
+
+    .sec-9 {
+        width: 50%;
+    }
+
+    .sec-10 {
+        width: fit-content;
+    }
+
+    .relavant-form {
+        padding: 277px 220px;
+    }
+
+    .footer-column-set {
+        width: 53%;
+    }
+
+}
+
+@media screen and (max-width: 768px) {
+    .navbar ul {
+        display: none;
+        flex-direction: column;
+        position: fixed;
+        width: 250px;
+        /* Set the width of the menu */
+        height: 100vh;
+        background-color: #262626;
+        top: 0;
+        left: -250px;
+        /* Hide the menu off-screen */
+        transition: all 0.3s ease;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .navbar ul.active {
+        left: 0;
+        /* Show the menu */
+    }
+
+    .navbar ul li {
+        margin: 20px 0;
+    }
+
+    .menu-toggle {
+        display: block;
+    }
+
+    .nav-btn {
+        display: none;
+    }
+}
